@@ -13,9 +13,9 @@ Windows DNS Log Parser - Very fast generation and little resources used. This Po
 # - Copy the current log file to the same location or another one.
 # - It is best not to run this script on a domain controller, it runs fine, it does not use a large amount of memory or disk, but better safe than sorry. Zip your log file and move it somewhere else.
 # - Specify the location of the log file in the variable at the beginning of the script.
-# - After a while run this script to generate a HTML report.
+# - Once you are ready, run this script to generate a HTML report. Tested on PowerShell 5.1 ISE
 # 
-# - Tested a debugged on English versions of Windows Server 2016, 2019, 2022 and 2025.
+# - Tested and debugged on English versions of Windows Server 2016, 2019, 2022 and 2025.
 #
 # License :
 # Feel free to use for any purpose, personal or commercial.
